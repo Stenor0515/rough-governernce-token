@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue'
+    ;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: sans-serif, 'Courier New',
+    monospace;
+}
+
+/* @font-face {
+  font-family: 'Orbitron';
+  src: local('Orbitron'), url(./assets/fonts/Orbitron-VariableFont_wght.ttf) format('truetype');
+} */

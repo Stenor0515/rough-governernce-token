@@ -1,0 +1,4 @@
+export const BOX = "0x0Cb48aD64C4F6c3Fb1136868ADA4AAA4A60c8BF4";
+export const GovernanceToken = "0xFc64a4797A5539B44Df368208BE445BdA13126C2";
+export const GovernorContract = "0xB8cE42b282C8dF7C8757524cF475AAdDa832d1eA";
+export const TimeLock = "0x03Ab23cC604D88B32Bd837CaC0deA8C16954d896";
